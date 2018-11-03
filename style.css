@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#main {
+    margin: 30px auto;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+img {
+    max-width: 95%;
+    border: 1px solid white;
+    border-radius: 10px;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+#img-caption {
+    background-color: #999;
+    padding: 5px ;
+    margin: 10px 50px;
+    border-radius: 10px;
+    color: white;
+}
